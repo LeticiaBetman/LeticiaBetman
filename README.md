@@ -15,7 +15,7 @@
  
 </div><br/>
 
-Desenvolvedora de Software e apaixonada por tecnologia. Atualemte cursando o 3° semestre de Análise e Desenvolvimento de Sistemas.
+Desenvolvedora de Software e apaixonada por tecnologia. Atualemte cursando o 4° semestre de Análise e Desenvolvimento de Sistemas.
 
 ## Contato:
 - E-mail: leticiarodrigiesbetmanmedici@gmail.com

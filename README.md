@@ -15,8 +15,8 @@
  
 </div><br/>
 
-Desenvolvedora de Software e apaixonada por tecnologia. Atualmente cursando o 4° semestre de Análise e Desenvolvimento de Sistemas.
+Desenvolvedora Front-end e apaixonada por tecnologia.
 
 ## Contato:
-- E-mail: leticiarodrigiesbetmanmedici@gmail.com
+- E-mail: leticiarodriguesbetman@gmail.com
 
